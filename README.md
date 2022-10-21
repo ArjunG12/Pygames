@@ -1,4 +1,3 @@
 # Pygames
-Hey My name is Arjun Goel. 
-I made these games out of nostalgia as I used to play these games all the time.
-Enjoy:)
+Hey I used to play these games all the time during my childhood as I am sure you have too.
+I made them out nostalgia so ENJOY:)
