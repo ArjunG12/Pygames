@@ -7,5 +7,5 @@ Instructions to open games:
 
 
 
-https://user-images.githubusercontent.com/46287498/197233004-81b145a2-57b4-44fc-99ee-6f486042b0ee.mp4
 
+https://user-images.githubusercontent.com/46287498/197233308-37b7013b-8958-4f0c-b054-3f0ed72df1a0.mp4
