@@ -1,9 +1,10 @@
 # Pygames
-Hey I used to play these games all the time during my childhood as I am sure you have too.
-I made them out nostalgia so ENJOY:)
-Instructions to open games:
-1. Make sure you have Python and Pygame installed
-2. Download the files and then just open the "Main.py" to play
+Hey! I used to play these games all the time as a kid—I'm sure you did too.
+I recreated them out of nostalgia, so I hope you enjoy! 😊
+
+How to play:
+1. Make sure Python and Pygame are installed.
+2. Download the files and run "Main.py" to start the game.
 
 
 
